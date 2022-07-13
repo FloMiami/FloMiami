@@ -1,4 +1,4 @@
-- ✵ Hi, I’m @FloMiami
+- ✵ Alex Soto
 - ☾  I’m interested in  music, fashion, sports, gaming
 - ￥ I’m currently learning  API architecture 
 - ✉ I’m looking to collaborate on applications regarding retail and e-commerce 
