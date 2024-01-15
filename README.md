@@ -1,8 +1,4 @@
-- ✵ Alex Soto
-- ☾  I’m interested in  music, fashion, sports, gaming
-- ￥ I’m currently learning  API architecture 
-- ✉ I’m looking to collaborate on applications regarding retail and e-commerce 
-- ⛥ How to reach me    instagram: alexsoto_06  email: asoto4@my.dom.edu 
+Student Focused on CyberSec. 
 
 <!---
 FloMiami/FloMiami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
